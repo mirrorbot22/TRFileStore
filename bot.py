@@ -76,8 +76,8 @@ async def start(bot: Client, cmd: Message):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton("Support Group", url="https://t.me/AsuranMoviefinder"),
-                        InlineKeyboardButton("Bots Channel", url="https://t.me/JAsuranbots")
+                        InlineKeyboardButton("Support Group", url="https://t.me/TR_Discussion"),
+                        InlineKeyboardButton("Bots Channel", url="https://t.me/TamilaRockers")
                     ],
                     [
                         InlineKeyboardButton("About Bot", callback_data="aboutbot"),
@@ -317,7 +317,7 @@ async def button(bot: Client, cmd: CallbackQuery):
                 [
                     [
                         InlineKeyboardButton("Source Codes of Bot",
-                                             url="https://github.com/JAsuran/PyroFilesStoreBot")
+                                             url="https://t.me/Tamilarockers")
                     ],
                     [
                         InlineKeyboardButton("Go Home", callback_data="gotohome"),
@@ -335,7 +335,7 @@ async def button(bot: Client, cmd: CallbackQuery):
                 [
                     [
                         InlineKeyboardButton("Source Codes of Bot",
-                                             url="https://github.com/JAsuran/PyroFilesStoreBot")
+                                             url="https://t.me/Tamilarockers")
                     ],
                     [
                         InlineKeyboardButton("About Bot", callback_data="aboutbot"),
@@ -352,8 +352,8 @@ async def button(bot: Client, cmd: CallbackQuery):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton("Support Group", url="https://t.me/AsuranMoviefinder"),
-                        InlineKeyboardButton("Bots Channel", url="https://t.me/JAsuranbots")
+                        InlineKeyboardButton("Support Group", url="https://t.me/TR_Discussion"),
+                        InlineKeyboardButton("Bots Channel", url="https://t.me/TamilaRockers")
                     ],
                     [
                         InlineKeyboardButton("About Bot", callback_data="aboutbot"),
@@ -406,8 +406,8 @@ async def button(bot: Client, cmd: CallbackQuery):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton("Support Group", url="https://t.me/AsuranMoviefinder"),
-                        InlineKeyboardButton("Bots Channel", url="https://t.me/JAsuranbots")
+                        InlineKeyboardButton("Support Group", url="https://t.me/TR_Discussion"),
+                        InlineKeyboardButton("Bots Channel", url="https://t.me/TamilaRockers")
                     ],
                     [
                         InlineKeyboardButton("About Bot", callback_data="aboutbot"),
